@@ -2,7 +2,7 @@
 
 #define USE_GPU
 
-// #define MEASURE_TIME
+#define MEASURE_TIME
 const std::string PUT_TIMES_FILENAME = "measure_times.txt";
 
 const size_t NUMBER_OF_OBJECT = 1000;
